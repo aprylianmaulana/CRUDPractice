@@ -1,0 +1,13 @@
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\bin\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.deps.json
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\bin\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\bin\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\bin\Debug\netcoreapp3.1\CRUDPractice.Domain.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\bin\Debug\netcoreapp3.1\CRUDPractice.Domain.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.csproj.AssemblyReference.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.AssemblyInfoInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.AssemblyInfo.cs
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.csproj.CoreCompileInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.csproj.CopyComplete
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.DataAccess.Dapper\obj\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.pdb

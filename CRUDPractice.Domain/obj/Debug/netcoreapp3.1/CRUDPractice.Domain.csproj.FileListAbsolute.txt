@@ -1,0 +1,10 @@
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\bin\Debug\netcoreapp3.1\CRUDPractice.Domain.deps.json
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\bin\Debug\netcoreapp3.1\CRUDPractice.Domain.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\bin\Debug\netcoreapp3.1\CRUDPractice.Domain.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\obj\Debug\netcoreapp3.1\CRUDPractice.Domain.csproj.AssemblyReference.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\obj\Debug\netcoreapp3.1\CRUDPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\obj\Debug\netcoreapp3.1\CRUDPractice.Domain.AssemblyInfoInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\obj\Debug\netcoreapp3.1\CRUDPractice.Domain.AssemblyInfo.cs
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\obj\Debug\netcoreapp3.1\CRUDPractice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\obj\Debug\netcoreapp3.1\CRUDPractice.Domain.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Domain\obj\Debug\netcoreapp3.1\CRUDPractice.Domain.pdb

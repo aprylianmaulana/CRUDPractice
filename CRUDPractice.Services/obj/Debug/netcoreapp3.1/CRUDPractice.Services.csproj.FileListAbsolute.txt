@@ -1,0 +1,15 @@
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\bin\Debug\netcoreapp3.1\CRUDPractice.Services.deps.json
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\bin\Debug\netcoreapp3.1\CRUDPractice.Services.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\bin\Debug\netcoreapp3.1\CRUDPractice.Services.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\bin\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\bin\Debug\netcoreapp3.1\CRUDPractice.Domain.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\bin\Debug\netcoreapp3.1\CRUDPractice.DataAccess.Dapper.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\bin\Debug\netcoreapp3.1\CRUDPractice.Domain.pdb
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.csproj.AssemblyReference.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.AssemblyInfoInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.AssemblyInfo.cs
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.csproj.CoreCompileInputs.cache
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.csproj.CopyComplete
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.dll
+C:\Users\DHIYA NADHIRA\Documents\Project\test-project\CRUDPractice.Services\obj\Debug\netcoreapp3.1\CRUDPractice.Services.pdb

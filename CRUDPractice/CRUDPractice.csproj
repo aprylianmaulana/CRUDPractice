@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.16" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CRUDPractice.DataAccess.Dapper\CRUDPractice.DataAccess.Dapper.csproj" />
+    <ProjectReference Include="..\CRUDPractice.Domain\CRUDPractice.Domain.csproj" />
+    <ProjectReference Include="..\CRUDPractice.Services\CRUDPractice.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>
